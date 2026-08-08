@@ -19,9 +19,9 @@ Applied data scientist working on causal inference, machine learning at scale, m
 
 **ML & deep learning** — PyTorch, scikit-learn, Hugging Face Transformers, gradient boosting, clustering, dimensionality reduction, fairness evaluation
 
-**Data & analysis** — pandas, SQL, NumPy, statsmodels, GeoPandas, statistical modeling, causal inference, experimental design
+**Data & analysis** — pandas, NumPy, statsmodels, GeoPandas, statistical modeling, causal inference, experimental design
 
-**Tools** — Jupyter, Git, Streamlit, Matplotlib, Plotly
+**Tools** — Jupyter, Git, BigQuery, Streamlit, Matplotlib, Plotly
 
 ## Contact
 

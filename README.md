@@ -25,5 +25,5 @@ Applied data scientist working on causal inference, machine learning at scale, m
 
 ## Contact
 
-[austonb@umich.edu](mailto:austonb@umich.edu) · [LinkedIn](https://www.linkedin.com/in/auston-balwinski)
+[austonb@umich.edu](mailto:austonb@umich.edu) · [LinkedIn](www.linkedin.com/in/austonb)
 

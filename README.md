@@ -12,7 +12,6 @@ Applied data scientist working on causal inference, machine learning at scale, m
 | **[Ocean Health Monitoring](https://github.com/Auston-B/Ocean-Health-Monitoring)** | Predicts dissolved oxygen across 600k NOAA World Ocean Database records (R² = 0.98) and clusters global measurements into water-mass regimes. I owned the unsupervised pipeline end to end. | Clustering (KMeans, HDBSCAN, Agglomerative), PCA/t-SNE, random forests, ablation and failure analysis |
 | **[Climate Change and Global Mortality](https://github.com/Auston-B/climate-change-mortality)** | Integrates WHO mortality, CRU climate, and World Bank population data into a country-year panel covering ~130 countries and a century of records, then tests how temperature relates to mortality across age groups and causes of death. | Multi-source integration, entity harmonization, correlation analysis, interactive visualization |
 
-More in [my repositories](https://github.com/Auston-B?tab=repositories), including diffusion models from scratch, sleep-health prediction and fairness analysis across 59,757 *All of Us* participants, and geospatial election visualization.
 
 ## Skills
 
